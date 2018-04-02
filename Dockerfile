@@ -1,4 +1,4 @@
 FROM ubuntu
 
-ENTRYPOINT ["echo", "Hello World"]
+ENTRYPOINT ["echo", "Hello World!"]
 
